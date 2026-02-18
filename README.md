@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome!
+
+I am a computer engineering BSc student at the University of Szeged in Hungary. Here you can find my smaller and larger projects that I've finished - of course, there are much more though, some lost over the years but most preserved even if unfinished. 
+
+My main project is my homelab which (among multiple other things) acts as a media server and network file storage for me, my family and some of my friends. The configs at [kszkristof/homelab](https://github.com/kszkristof/homelab) are the result of years of fine-tuning and trying different things. This process confinues to this very day as well - I've decided to document its evolution it in its own Git repo.
+
+Other important information is found at the root domain of my site and at the following repository: [kszkristof/kszkristof.com](https://github.com/kszkristof/kszkristof.com).
+
+See more projects as well on my self-hosted Gitea instance: [git.kszkristof.com/kszkristof](https://git.kszkristof.com/kszkristof)
 
 <!--
 **kszkristof/kszkristof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
